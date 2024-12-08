@@ -1,0 +1,39 @@
+li{
+
+    color: navy;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body{
+    background-image: url();
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+
+;
+}
+table{
+    border-color: black;
+    border-style: double;
+    font-size: 25px;
+
+
+}
+h1{
+    
+border;
+font-family: sans-serif;
+
+
+
+}
+a:hover{
+    color: red;
+    
+}
+a:visited{
+    color: maroon;
+
+}
